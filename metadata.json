@@ -1,0 +1,6 @@
+{
+  "name": "Harness",
+  "description": "Bring your own keys to chat with OpenAI, Claude, Gemini, and Grok, analyze documents, and interact with email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
